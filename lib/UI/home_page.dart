@@ -4,7 +4,6 @@ import 'package:ecommerce/UI/details.dart';
 import 'package:ecommerce/UI/filter_screen.dart';
 import 'package:ecommerce/UI/search_screen.dart';
 import 'package:ecommerce/model/Products.dart';
-import 'package:ecommerce/model/ResponseMain.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
